@@ -13,7 +13,6 @@ This submod would add a room that is customizable and does not look all static (
 ## New Updates 🚩
 
 ### New location for a date. (Extra+)
-#### Beach or Pool.
 
 
 ## Misc 👁️‍🗨️ 
