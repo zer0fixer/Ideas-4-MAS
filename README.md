@@ -4,16 +4,8 @@
 </p>
 
 ## Submods ❤️
-### MAS-Sleep
+### Sleeping together
 
 ![screenshot0025](https://github.com/zer0fixer/Ideas-4-MAS/assets/94260040/ff5fff24-3a18-43ee-b883-32f11c5ae95c)
 
 This submod would add a room that is customizable and does not look all static (development was stopped due to lack of time).
-
-## New Updates 🚩
-
-### New location for a date. (Extra+)
-
-
-## Misc 👁️‍🗨️ 
-### Add more themes for ComfyUI 
